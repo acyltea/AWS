@@ -1,2 +1,2 @@
 # AWS
-AWS Solution Architect Projcts 
+AWS Solution Architect Projects
