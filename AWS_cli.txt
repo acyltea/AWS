@@ -1,0 +1,30 @@
+#This is a simple exercise for setting up the command line for AWS.
+
+#First we have to do the actual cli setup for our OS. I'm using a macOS, so here is the documentation:
+#https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html
+
+#After we download the package and run through the installation windows we have to verify the installation is correct.
+#We use the following commands:
+
+$ which aws
+/usr/local/bin/aws <- output example 
+$ aws --version
+aws-cli/2.1.24 Python/3.7.4 Darwin/18.7.0 botocore/2.0.0 <-output example
+
+#But we're not off the races just yet. Since I want to be able to make changes on an existing AWS account, 
+#I should configure the AWS cli in order to be able to login.  
+#As a best practice, I should never login as the root user and should create an 'Administrator' user profile instead. 
+#The following documentation shows you how to do this:
+#https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html
+
+#Now that everything is set up, and my credentials are saved somewhere safe, I'm going to run through some commands:
+
+aws s3 ls <- this lists buckets that currently exist on your account
+aws s3 mb <bucketname> <- this creates an S3 bucket
+Aws s3 cp /path/to/file.txt.s3://bucketname <-this copies a simple file or document from my machine to my new bucket
+
+#If you don't have an AWS account and need to create one, start here:
+#https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
+
+
+ 
