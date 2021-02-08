@@ -24,7 +24,4 @@ aws s3 mb <bucketname> <- this creates an S3 bucket
 Aws s3 cp /path/to/file.txt.s3://bucketname <-this copies a simple file or document from my machine to my new bucket
 
 #If you don't have an AWS account and need to create one, start here:
-#https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
-
-
- 
+#https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/ 
