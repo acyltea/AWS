@@ -1,0 +1,7 @@
+#The exercises are taken from the following source(s) and updated with my own data and notes:
+
+#AWS Certified Solutions Architect Study Guide for the SAA-C02 Exam by Ben Piper.
+#Ryan Kroonenburg's AWS Certified Solutions Architect course on Udemy (https://www.udemy.com/course/aws-certified-solutions-architect-associate/).
+
+#This list will be updated as sources are added.
+#created: 2/11/2021 - JFR
