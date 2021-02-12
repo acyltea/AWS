@@ -1,4 +1,4 @@
-#The exercises are taken from the following source(s) and updated with my own data and notes:
+#I am/have using/used the following source(s):
 
 #AWS Certified Solutions Architect Study Guide for the SAA-C02 Exam by Ben Piper.
 #Ryan Kroonenburg's AWS Certified Solutions Architect course on Udemy (https://www.udemy.com/course/aws-certified-solutions-architect-associate/).
