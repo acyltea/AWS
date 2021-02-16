@@ -1,0 +1,16 @@
+#Ex. 3.1 from AWS Certified Solutions Architect Study Guide, 3rd E by Ben Piper.
+
+The following is a simple recipe for creating and uploading a file to an S3 bucket:
+
+1. Create a new bucket via the Management Console dashboard (accessible with a web browser).
+
+2. Use either the dashboard or the AWS CLI (accessible via the command line terminal: 
+aws s3 cp mylocalfile.txt s3://mybucketname/) to upload one or more files.
+
+3. Give public read access to the object.
+
+4. From the file's Overview page in the S3 dashboard, copy its public link.
+
+5. Paste the link into the URL field of a broswer that's not logged into AWS. 
+
+6. Confirm that you can open the file!
