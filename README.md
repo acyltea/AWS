@@ -1,4 +1,4 @@
-# AWS portfolio:
+# AWS: portfolio
 
 EC2 - Elastic Compute Cloud
 
