@@ -1,1 +1,1 @@
-#This is a folder for S3 exercises/projects
+#S3 exercises/projects
