@@ -1,1 +1,1 @@
-#This is a folder for EC2 exercises/projects
+#EC2 exercises/projects
