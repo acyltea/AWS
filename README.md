@@ -1,5 +1,3 @@
 # AWS: portfolio
 
-Various Test Solutions
-
-I will update the repo as built and tested
+Various Test Solutions. I will update as built and tested.
