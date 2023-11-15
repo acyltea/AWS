@@ -1,9 +1,5 @@
 # AWS: portfolio
 
-EC2 - Elastic Compute Cloud
+Various Test Solutions
 
-IAM - Identity Access Management
-
-S3 - Simple Storage Service
-
-VPC - Virtual Private Cloud
+I will update the repo as built and tested
